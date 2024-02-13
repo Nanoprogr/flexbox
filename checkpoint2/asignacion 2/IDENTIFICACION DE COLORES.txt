@@ -1,0 +1,8 @@
+Papara la identificacion de colores, he usado la pagina https://sebkay.com/ 
+en esta he encontrado los siguientes colores repetidos.
+
+#ddd para las barras de division de contenido. 
+
+#F9322c para los link de la Categoria de LARAVEL
+
+#191a1d Para el color de los encabezados

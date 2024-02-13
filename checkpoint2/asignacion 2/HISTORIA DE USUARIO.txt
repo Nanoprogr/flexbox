@@ -1,0 +1,18 @@
+Para la historia de usuario, he decidido utilizar la siguiente página: https://twitter.com/?logout=1707854180468
+
+Tipo de Usuario: Usuario sin registrar, que ya conoce la página y desea restrarse facilmente.
+
+inicialmente, ya que se conoce la págna, busco simplicidad en lo que que leo.
+
+Tambien, facilidad para encontrar la forma de registrarme, seria de mucho agrado poder hacerlo mediante distintas formas.
+como registrarse a traves de otras cuentas existentes (Facebook, Google, etc).
+
+Ademas, una opcion de registro que no vincule mis cuentas, en caso de que no desee que mi usuario se comparta entre RRSS.
+
+Como nuevo usuario, me gustaria tener a la mano, las politicas de privacidad, condiciones de servicio, politicas de copkies, etc.
+
+Y de igual manera, una opcion de centro de ayuda que me aclare dudas con respecto al proceso de registro o cualquier otra incognita
+que surga en el proceso.
+
+todo bajo un diseño simple que no me haga sentir abrumado, y con facilidad de navegacion. que como usuario que conoce la pagina, ya 
+estoy al corriente de lo que me va a ofrecer.

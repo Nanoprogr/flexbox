@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #333;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline-block;
+  }
+  
+  .navbar a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    padding: 10px 20px;
+    display: block;
+    text-decoration: none;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
